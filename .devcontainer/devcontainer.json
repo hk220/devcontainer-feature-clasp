@@ -1,0 +1,8 @@
+{
+    "name": "devcontainers-features",
+    "image": "mcr.microsoft.com/devcontainers/base:1-jammy",
+    "features": {
+        "ghcr.io/devcontainers/features/node:1": {},
+        "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "id": "devcontainer-feature-clasp",
+    "version": "1.0.0",
+    "name": "Clasp feature",
+    "description": "Installs clasp.",
+    "documentationURL": "https://github.com/hk220/devcontainer-feature-clasp",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/node:1"
+    ]
+}
